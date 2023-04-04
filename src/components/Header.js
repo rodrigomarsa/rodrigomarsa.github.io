@@ -9,7 +9,7 @@ function Header() {
   return (
     <header className="Header">
       <ul>
-        <li><a href="home">Home</a></li>
+        <li><a href="/">Home</a></li>
         <li><a href="about">Sobre</a></li>
         <li><a href="repos">Repositórios</a></li>
         <li className="dropdown">

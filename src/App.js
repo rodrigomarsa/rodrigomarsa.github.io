@@ -18,7 +18,7 @@ function App() {
     <div className={ dark ? 'App__Dark' : 'App__Light' }>
       <Header />
       <Switch>
-        <Route exact path="/home" component={ Home } />
+        <Route exact path="/" component={ Home } />
         <Route exact path="/about" component={ About } />
         <Route exact path="/repos" component={ Repositories } />
         <Route exact path="/front" component={ Frontend } />
