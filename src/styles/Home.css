@@ -1,0 +1,35 @@
+.repo {
+  box-shadow: var(--shadow-1);
+  margin-bottom: 1em;
+  background-color: var(--grey);
+  padding: 1em;
+  border-radius: 0.5em;
+  color: white;
+}
+
+select {
+  margin-bottom: 1rem;
+  padding: 0.7rem 0.75rem;
+  border-radius: 0.5em;
+  background: var(--grey-50);
+  border: 1px solid var(--grey-200);
+}
+
+.Repo-link {
+  color: white;
+}
+
+.Home {
+  width: 100%;
+  padding: 80px;
+}
+
+.App__Light .repo {
+  color: black;
+  background-color: var(--dark-wgreen);
+}
+
+.App__Light .Repo-link {
+  color: black;
+}
+

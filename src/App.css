@@ -1,0 +1,140 @@
+.App__Dark {
+  background-color: var(--dark-grey);
+  color: white;
+  /* height: 100vh; */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App__Light {
+  background-color: white;
+  color: var(--dark-grey);
+  /* height: 100vh; */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App__Light input {
+  padding: 0.7rem 0.75rem;
+  background-color: var(--grey);
+  color: white;
+}
+
+.App__Light select {
+  padding: 0.7rem 0.75rem;
+  background-color: var(--grey);
+  color: white;
+}
+
+.App__Dark select {
+  padding: 0.7rem 0.75rem;
+  background-color: var(--grey);
+  color: black;
+}
+
+/* .App__Light img{
+ filter: invert(0.3);
+} */
+
+/* header {
+  text-align: right;
+  padding: 0.5em;
+} */
+
+.theme {
+  float: right;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Repositories {
+  position: relative;
+  min-height: 105vh;
+  padding-bottom: 3%;
+}
+
+footer {
+  background-color: #333;
+  padding-top: 10px;
+  bottom: 0;
+  height: 2.5rem;
+  left: 0;
+  position: fixed;
+  width: 100%;
+}
+
+.Footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  border-right: 10px;
+}
+
+.Footer a {
+  color: white;
+  padding-right: 50px;
+}
+
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-right: 10px;
+  width: 100%;
+  background-color: #333;
+}
+
+.Header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: blue;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {  background-color: #333;}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
