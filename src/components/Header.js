@@ -9,14 +9,14 @@ function Header() {
   return (
     <header className="Header">
       <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="about">Sobre</a></li>
-        <li><a href="repos">Repositórios</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#about">Sobre</a></li>
+        <li><a href="#repos">Repositórios</a></li>
         <li className="dropdown">
-          <a href="#" className="dropbtn">Projetos</a>
+          <a className="dropbtn">Projetos</a>
           <div className="dropdown-content">
-            <a href="front">Front-end</a>
-            <a href="back">Back-end</a>
+            <a href="#front">Front-end</a>
+            <a href="#back">Back-end</a>
           </div>
         </li>
       </ul>
