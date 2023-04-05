@@ -1,0 +1,7 @@
+.App__Dark .About a {
+  color: white
+}
+
+.App__Light .About a {
+  color: black
+}

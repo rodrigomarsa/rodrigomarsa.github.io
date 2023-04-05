@@ -31,7 +31,7 @@
 .App__Dark select {
   padding: 0.7rem 0.75rem;
   background-color: var(--grey);
-  color: black;
+  color: white;
 }
 
 /* .App__Light img{
