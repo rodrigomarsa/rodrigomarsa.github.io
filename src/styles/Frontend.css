@@ -1,3 +1,8 @@
+.Frontend {
+  width: 100%;
+  padding: 50px;
+}
+
 .Frontend a {
   color: white;
   font-size: 20px;

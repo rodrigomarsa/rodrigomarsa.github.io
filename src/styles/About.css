@@ -1,3 +1,8 @@
+.About {
+  width: 100%;
+  padding: 80px;
+}
+
 .App__Dark .About a {
   color: white
 }
