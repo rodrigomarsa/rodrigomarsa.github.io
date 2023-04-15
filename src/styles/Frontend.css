@@ -3,11 +3,20 @@
   padding: 50px;
 }
 
+.container_front {
+  display: flex;
+  flex-direction: column;
+}
+
+li {
+  list-style-type: none;
+}
+
 .Frontend a {
   color: white;
   font-size: 20px;
 }
 
-.App__Light .app-recipes {
+.App__Light a {
   color: black;
 }

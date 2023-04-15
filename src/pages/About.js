@@ -10,7 +10,7 @@ function About() {
         área de agronomia, estou em transição de carreira para o desenvolvimento web
         através do curso da
         {' '}
-        <a href="https://www.betrybe.com/" target="_blank" rel="noreferrer">Trybe</a>
+        <a href="https://www.betrybe.com/" target="_blank" rel="noopener noreferrer">Trybe</a>
         , aonde aprendi muito sobre ReactJS em front-end e NodeJS em back-end, além de
         várias outras hard-skills e soft-skills, bem como metodologias agéis.
         Nas horas vagas adoro ficar com minha família e praticar esportes.

@@ -2,3 +2,21 @@
   width: 100%;
   padding: 50px;
 }
+
+.container_back {
+  display: flex;
+  flex-direction: column;
+}
+
+li {
+  list-style-type: none;
+}
+
+.Backend a {
+  color: white;
+  font-size: 20px;
+}
+
+.App__Light a {
+  color: black;
+}
