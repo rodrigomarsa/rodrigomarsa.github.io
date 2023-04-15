@@ -49,7 +49,7 @@ function Backend() {
         <li>
           <a
             className="trybe-futebol-clube"
-            href="https://github.com/rodrigomarsa/trybe-futebol-clube"
+            href="https://tfc-frontend-production-60be.up.railway.app"
             target="_blank"
             rel="noopener noreferrer"
           >
