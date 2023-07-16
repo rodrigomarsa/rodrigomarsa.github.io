@@ -38,6 +38,11 @@ function Home() {
   return (
     <div className="Home">
       <h1>{`Olá, eu sou o ${name}, moro em ${location} e sou ${bio}`}</h1>
+      <h2>
+        Esse portfólio está consumindo a API do GitHub para buscar minhas
+        informações pessoais e meus repositórios.
+        Ficou curioso em saber como? Me chame para batermos um papo.
+      </h2>
       <img src={ avatarUrl } alt={ name } width="200" />
     </div>
   );

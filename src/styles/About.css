@@ -1,6 +1,7 @@
 .About {
   width: 100%;
   padding: 80px;
+  text-align: justify;
 }
 
 .App__Dark .About a {

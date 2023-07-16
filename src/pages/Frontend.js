@@ -8,12 +8,20 @@ function Frontend() {
       <ul className="container_front">
         <li>
           <a
-            className="app-recipes"
             href="https://rodrigomarsa.github.io/app-recipes/"
             target="_blank"
             rel="noopener noreferrer"
           >
             App de Receitas
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://rodrigomarsa.github.io/online-store/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            On-line Store
           </a>
         </li>
       </ul>

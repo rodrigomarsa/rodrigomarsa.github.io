@@ -8,7 +8,6 @@ function Backend() {
       <ul className="container_back">
         <li>
           <a
-            className="talker-manager"
             href="https://github.com/rodrigomarsa/talker-manager"
             target="_blank"
             rel="noopener noreferrer"
@@ -18,7 +17,6 @@ function Backend() {
         </li>
         <li>
           <a
-            className="store-manager"
             href="https://github.com/rodrigomarsa/store-manager"
             target="_blank"
             rel="noopener noreferrer"
@@ -28,7 +26,6 @@ function Backend() {
         </li>
         <li>
           <a
-            className="blogs-api"
             href="https://github.com/rodrigomarsa/blogs-api"
             target="_blank"
             rel="noopener noreferrer"
@@ -38,7 +35,6 @@ function Backend() {
         </li>
         <li>
           <a
-            className="trybesmith"
             href="https://github.com/rodrigomarsa/trybesmith"
             target="_blank"
             rel="noopener noreferrer"
@@ -48,8 +44,7 @@ function Backend() {
         </li>
         <li>
           <a
-            className="trybe-futebol-clube"
-            href="https://tfc-frontend-production-60be.up.railway.app"
+            href="https://trybe-futebol-clube-production-60be.up.railway.app"
             target="_blank"
             rel="noopener noreferrer"
           >
