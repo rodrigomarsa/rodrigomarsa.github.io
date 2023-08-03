@@ -17,6 +17,7 @@ function Header() {
           <div className="dropdown-content">
             <a href="#front">Front-end</a>
             <a href="#back">Back-end</a>
+            <a href="#python">Python</a>
           </div>
         </li>
       </ul>

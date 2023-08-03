@@ -10,6 +10,7 @@ import AppContext from './context/AppContext';
 import About from './pages/About';
 import Frontend from './pages/Frontend';
 import Backend from './pages/Backend';
+import Python from './pages/Python';
 
 function App() {
   const { dark } = useContext(AppContext);
@@ -23,6 +24,7 @@ function App() {
         <Route exact path="/repos" component={ Repositories } />
         <Route exact path="/front" component={ Frontend } />
         <Route exact path="/back" component={ Backend } />
+        <Route exact path="/python" component={ Python } />
         <Route exact path="*" component={ PageNotFound } />
       </Switch>
       <Footer />

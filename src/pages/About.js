@@ -8,9 +8,8 @@ function About() {
       <h2>
         Sou engenheiro agrônomo apaixonado por tecnologia e estou em uma
         empolgante transição de carreira para o desenvolvimento web. Com uma
-        sólida formação e experiência em engenharia de avaliações, estou animado
-        em trazer minhas habilidades analíticas e capacidade de resolver
-        problemas para o mundo da programação.
+        sólida formação, estou animado em trazer minhas habilidades analíticas e
+        capacidade de resolver problemas para o mundo da programação.
         <br />
         <br />
         Ao longo dos anos, trabalhei em diferentes projetos, e me especializei
@@ -24,11 +23,11 @@ function About() {
         <br />
         Para seguir meu objetivo, dediquei-me a aprender habilidades de
         programação, participando de cursos e projetos práticos. Adquiri
-        proficiência em HTML, CSS, JavaScript, React.js, Redux, Context API,
-        Node.js, Docker, MySQL, Express, Sequelize, TypeScript, POO,
-        arquiteturas MSC e SOLID, MongoDB, Mongoose, Python, bem como
-        soft-skills e metodologias ágeis. Estou sempre buscando aprender novas
-        tecnologias para oferecer soluções inovadoras e eficientes.
+        conhecimentos em HTML, CSS, JavaScript, TypeScript, Python, React.js,
+        Redux, Context API, Node.js, Docker, MySQL, Express, Sequelize, MongoDB,
+        Mongoose, POO, arquiteturas MSC e SOLID, bem como soft-skills e
+        metodologias ágeis. Estou sempre buscando aprender novas tecnologias
+        para oferecer soluções inovadoras e eficientes.
         <br />
         <br />
         Minha transição para o desenvolvimento web é motivada pela oportunidade
