@@ -60,6 +60,24 @@ function Python() {
             Tech News
           </a>
         </li>
+        <li>
+          <a
+            href="https://github.com/rodrigomarsa/project-traduzo"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Traduzo
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://github.com/rodrigomarsa/project-spotnews"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            SpotNews
+          </a>
+        </li>
       </ul>
     </div>
   );
