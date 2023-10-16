@@ -78,6 +78,15 @@ function Python() {
             SpotNews
           </a>
         </li>
+        <li>
+          <a
+            href="https://github.com/rodrigomarsa/project-super-portfolio"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Super Portfolio
+          </a>
+        </li>
       </ul>
     </div>
   );
